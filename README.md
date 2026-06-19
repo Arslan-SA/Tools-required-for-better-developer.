@@ -126,3 +126,5 @@ Feel free to star the repository and use anything that helps you become a better
 ---
 
 ### Built with ☕, curiosity, and lots of `:wq`
+
+One more thing to add if you are on mac than you can use rectangle for window snipping thats helps me a lot and set your by default key bindings.
